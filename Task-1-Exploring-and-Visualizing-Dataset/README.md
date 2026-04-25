@@ -73,7 +73,18 @@ Imported required libraries for data handling and visualization.
   - *Setosa* → Smallest petals and overall size
   - *Versicolor* → Medium-sized measurements
   - *Virginica* → Largest overall dimensions
+  - 
+### Visualizations
+Check out the plots generated from the Iris dataset:
 
+#### 1. Histogram Plot
+![Histogram](./result_histogram_plot.png)
+
+#### 2. Scatter Plot
+![Scatter](./result_scatter_plot.png)
+
+#### 3. Box Plot
+![Box Plot](./result_box_plot.png)
 ---
 
 
