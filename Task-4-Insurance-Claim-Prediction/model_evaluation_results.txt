@@ -1,0 +1,6 @@
+
+Model Performance Metrics:
+--------------------------
+Mean Absolute Error (MAE): 4181.19
+Root Mean Squared Error (RMSE): 5796.28
+Model R-squared Score: 0.7836
