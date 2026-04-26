@@ -39,7 +39,7 @@ This heatmap illustrates the relationship between different features in the data
 
 ### Model Performance
 The performance of the model was captured using a confusion matrix and detailed metrics.
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix(1)png)
 
 ### Feature Importance
 The following chart shows the most significant factors that influence a customer's decision to leave the bank.
